@@ -4,15 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="96391971-cb86-44cd-901c-63d24f8c8bff" name="Changes" comment="att mesa dia 24">
+    <list default="true" id="96391971-cb86-44cd-901c-63d24f8c8bff" name="Changes" comment="att">
+      <change afterPath="$PROJECT_DIR$/src/IMPRESSORA/Impressora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IMPRESSORA/ObjetoImpressora.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Mesa_do_jogo/ObjetoUsuariojogo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Mesa_do_jogo/ObjetoUsuariojogo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Mesa_do_jogo/Usuariojogo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Mesa_do_jogo/Usuariojogo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aula05/BancoDigital.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aula05/BancoDigital.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -21,7 +29,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="29dHROp4q1lnZO8SwUv9wXqfu8R" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -43,6 +53,26 @@
       <recent name="C:\Users\Vini\IdeaProjects\POO\src" />
     </key>
   </component>
+  <component name="RunManager">
+    <configuration name="ObjetoImpressora" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IMPRESSORA.ObjetoImpressora" />
+      <module name="POO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="IMPRESSORA.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ObjetoImpressora" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -53,6 +83,7 @@
       <updated>1653436035372</updated>
       <workItem from="1653436037060" duration="555000" />
       <workItem from="1653442068336" duration="343000" />
+      <workItem from="1653445548842" duration="3926000" />
     </task>
     <task id="LOCAL-00001" summary="novo">
       <created>1653436116614</created>
@@ -68,7 +99,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653436364205</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="att">
+      <created>1653445750450</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1653445750450</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -88,6 +126,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="novo" />
     <MESSAGE value="att mesa dia 24" />
-    <option name="LAST_COMMIT_MESSAGE" value="att mesa dia 24" />
+    <MESSAGE value="att" />
+    <option name="LAST_COMMIT_MESSAGE" value="att" />
   </component>
 </project>

@@ -12,18 +12,18 @@ public class BancoDigital {
 
     }
 
-    public void aumentarDivida(Double valor){
+    public void aumentarDivida(Double valor) {
         //calcular o valor da divida
         this.divida += valor;
         System.out.println("O saldo devedor do cliente" + this.nome + "o valor da divida atual" + this.divida);
     }
 
-    public void pagarDivida(Double valor){
+    public void pagarDivida(Double valor) {
         //calcula quanto pagou e sobraria da divida
-        if(this.divida == 0){
+        if (this.divida == 0) {
             System.out.println("Não tem divida a pagar");
-        }else
-         this.divida -= valor;
+        } else
+            this.divida -= valor;
         System.out.println("O saldo devedor do cliente" + this.nome + "o valor da divida atual" + this.divida);
     }
 
