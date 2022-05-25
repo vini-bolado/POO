@@ -7,7 +7,7 @@ public class Usuariojogo {
     private int pontuacao;
     private int nivel;
 
-    public Usuariojogo(String nome, String nickname, int pontuacao) {
+    public Usuariojogo(String nome, String nickname, int pontuacao ,int nivel) {
         this.nome = nome;
         this.nickname = nickname;
         this.pontuacao = pontuacao;
@@ -22,7 +22,6 @@ public class Usuariojogo {
 
         System.out.println("o nivel subiu para: " + this.nivel);
 
-
     }
 
     public void Pontuacao(Integer pontuacao){
@@ -30,9 +29,6 @@ public class Usuariojogo {
         this.pontuacao = 0;
 
     }
-
-
-
 
 
 
