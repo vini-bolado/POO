@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="96391971-cb86-44cd-901c-63d24f8c8bff" name="Changes" comment="att">
-      <change afterPath="$PROJECT_DIR$/src/IMPRESSORA/Impressora.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IMPRESSORA/ObjetoImpressora.java" afterDir="false" />
+    <list default="true" id="96391971-cb86-44cd-901c-63d24f8c8bff" name="Changes" comment="ex aula 25">
+      <change afterPath="$PROJECT_DIR$/src/CACHORRO/CACHORRO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CACHORRO/ObjetoCACHORRO.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Aula05/BancoDigital.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aula05/BancoDigital.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IMPRESSORA/Impressora.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IMPRESSORA/Impressora.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +53,20 @@
       <recent name="C:\Users\Vini\IdeaProjects\POO\src" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.ObjetoCACHORRO">
+    <configuration name="ObjetoCACHORRO" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CACHORRO.ObjetoCACHORRO" />
+      <module name="POO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CACHORRO.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ObjetoImpressora" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="IMPRESSORA.ObjetoImpressora" />
       <module name="POO" />
@@ -69,6 +82,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ObjetoCACHORRO" />
         <item itemvalue="Application.ObjetoImpressora" />
       </list>
     </recent_temporary>
@@ -83,7 +97,9 @@
       <updated>1653436035372</updated>
       <workItem from="1653436037060" duration="555000" />
       <workItem from="1653442068336" duration="343000" />
-      <workItem from="1653445548842" duration="3926000" />
+      <workItem from="1653445548842" duration="4263000" />
+      <workItem from="1653508308994" duration="1158000" />
+      <workItem from="1653516117175" duration="4987000" />
     </task>
     <task id="LOCAL-00001" summary="novo">
       <created>1653436116614</created>
@@ -106,7 +122,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653445750450</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="ex aula 25">
+      <created>1653450452148</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1653450452148</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -127,6 +150,7 @@
     <MESSAGE value="novo" />
     <MESSAGE value="att mesa dia 24" />
     <MESSAGE value="att" />
-    <option name="LAST_COMMIT_MESSAGE" value="att" />
+    <MESSAGE value="ex aula 25" />
+    <option name="LAST_COMMIT_MESSAGE" value="ex aula 25" />
   </component>
 </project>

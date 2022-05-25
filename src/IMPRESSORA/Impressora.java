@@ -1,13 +1,14 @@
 package IMPRESSORA;
 
+import java.time.LocalDate;
 import java.util.Date;
 
 public class Impressora {
     private String modelo;
     private String tipoConexao;
-
-    //private Date dataFabricacao;
     private int folhasDisponiveis;
+
+
 
 
     public Impressora(String modelo, String tipoConexao, int folhasDisponiveis) {
@@ -24,6 +25,7 @@ public class Impressora {
         }else System.out.println("Imprimindo!!!");
 
     }
+
 
     public String getModelo() {
         return modelo;
@@ -49,6 +51,10 @@ public class Impressora {
 
     public void setFolhasDisponiveis(int folhasDisponiveis) {
         this.folhasDisponiveis = folhasDisponiveis;
+
+        LocalDate data = LocalDate.of(2022,02,25);
+
+        System.out.println(data);
     }
 }
 
