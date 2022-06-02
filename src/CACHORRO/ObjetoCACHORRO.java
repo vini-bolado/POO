@@ -22,5 +22,6 @@ public class ObjetoCACHORRO {
         System.out.println("Peso: "+cao2.getPeso());
         System.out.println("Tem chip: "+cao2.getHasChip());
         System.out.println("Pode ir para adoção? "+cao2.encaminharAdocao());
+
     }
 }

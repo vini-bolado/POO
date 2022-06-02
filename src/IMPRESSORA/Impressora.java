@@ -11,12 +11,19 @@ public class Impressora {
 
 
 
+
+
+
     public Impressora(String modelo, String tipoConexao, int folhasDisponiveis) {
+
         this.modelo = modelo;
         this.tipoConexao = tipoConexao;
-
         this.folhasDisponiveis = folhasDisponiveis;
+
     }
+
+
+
 
     public void imprimir(int folhasDisponiveis){
 

@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="96391971-cb86-44cd-901c-63d24f8c8bff" name="Changes" comment="ex aula 25">
-      <change afterPath="$PROJECT_DIR$/src/CACHORRO/CACHORRO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CACHORRO/ObjetoCACHORRO.java" afterDir="false" />
+    <list default="true" id="96391971-cb86-44cd-901c-63d24f8c8bff" name="Changes" comment="Aprendendo date time">
+      <change afterPath="$PROJECT_DIR$/src/AulasSoulCode/Aula1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aula05/BancoDigital.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aula05/BancoDigital.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CACHORRO/ObjetoCACHORRO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CACHORRO/ObjetoCACHORRO.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/IMPRESSORA/Impressora.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IMPRESSORA/Impressora.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,24 +37,38 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Vini/IdeaProjects/POO/src&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Vini/IdeaProjects/POO/src",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Vini\IdeaProjects\POO\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ObjetoCACHORRO">
+  <component name="RunManager" selected="Application.Aula1">
+    <configuration name="Aula1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AulasSoulCode.Aula1" />
+      <module name="POO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AulasSoulCode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ObjetoCACHORRO" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CACHORRO.ObjetoCACHORRO" />
       <module name="POO" />
@@ -82,6 +97,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Aula1" />
         <item itemvalue="Application.ObjetoCACHORRO" />
         <item itemvalue="Application.ObjetoImpressora" />
       </list>
@@ -99,7 +115,11 @@
       <workItem from="1653442068336" duration="343000" />
       <workItem from="1653445548842" duration="4263000" />
       <workItem from="1653508308994" duration="1158000" />
-      <workItem from="1653516117175" duration="4987000" />
+      <workItem from="1653516117175" duration="5791000" />
+      <workItem from="1653780400629" duration="15000" />
+      <workItem from="1654040637618" duration="15000" />
+      <workItem from="1654106569760" duration="1136000" />
+      <workItem from="1654186713921" duration="5195000" />
     </task>
     <task id="LOCAL-00001" summary="novo">
       <created>1653436116614</created>
@@ -129,7 +149,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653450452148</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Aprendendo date time">
+      <created>1653522851655</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1653522851655</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -151,6 +178,7 @@
     <MESSAGE value="att mesa dia 24" />
     <MESSAGE value="att" />
     <MESSAGE value="ex aula 25" />
-    <option name="LAST_COMMIT_MESSAGE" value="ex aula 25" />
+    <MESSAGE value="Aprendendo date time" />
+    <option name="LAST_COMMIT_MESSAGE" value="Aprendendo date time" />
   </component>
 </project>
