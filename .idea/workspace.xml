@@ -4,12 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="96391971-cb86-44cd-901c-63d24f8c8bff" name="Changes" comment="Aprendendo date time">
-      <change afterPath="$PROJECT_DIR$/src/AulasSoulCode/Aula1.java" afterDir="false" />
+    <list default="true" id="96391971-cb86-44cd-901c-63d24f8c8bff" name="Changes" comment="att">
+      <change afterPath="$PROJECT_DIR$/src/BocaDeFumo/BocaDeFumo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BocaDeFumo/Fornecedores.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BocaDeFumo/Funcionarios.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BocaDeFumo/Usuario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BocaDeFumo/Vendedores.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BocaDeFumo/adms.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Forca/GuardaPalavra.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Forca/Principal.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Aula05/BancoDigital.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aula05/BancoDigital.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CACHORRO/ObjetoCACHORRO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CACHORRO/ObjetoCACHORRO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IMPRESSORA/Impressora.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IMPRESSORA/Impressora.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aula05/BancoDigital.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aula05/ObejtoBancoDigital.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,25 +43,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Vini/IdeaProjects/POO/src",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Vini/IdeaProjects/POO/src&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Vini\IdeaProjects\POO\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Aula1">
+  <component name="RunManager" selected="Application.Principal">
     <configuration name="Aula1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AulasSoulCode.Aula1" />
       <module name="POO" />
@@ -95,8 +101,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Principal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Forca.Principal" />
+      <module name="POO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Forca.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Principal" />
         <item itemvalue="Application.Aula1" />
         <item itemvalue="Application.ObjetoCACHORRO" />
         <item itemvalue="Application.ObjetoImpressora" />
@@ -120,6 +140,10 @@
       <workItem from="1654040637618" duration="15000" />
       <workItem from="1654106569760" duration="1136000" />
       <workItem from="1654186713921" duration="5195000" />
+      <workItem from="1654454149429" duration="125000" />
+      <workItem from="1654454559747" duration="2052000" />
+      <workItem from="1654459125657" duration="1367000" />
+      <workItem from="1654462181527" duration="4633000" />
     </task>
     <task id="LOCAL-00001" summary="novo">
       <created>1653436116614</created>
@@ -180,5 +204,9 @@
     <MESSAGE value="ex aula 25" />
     <MESSAGE value="Aprendendo date time" />
     <option name="LAST_COMMIT_MESSAGE" value="Aprendendo date time" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
