@@ -4,13 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="96391971-cb86-44cd-901c-63d24f8c8bff" name="Changes" comment="checkPoint POO">
-      <change afterPath="$PROJECT_DIR$/src/MesaTrabAula1/Impressora.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MesaTrabAula1/ImpressoraCannon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MesaTrabAula1/ImpressoraEpson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MesaTrabAula1/main.java" afterDir="false" />
+    <list default="true" id="96391971-cb86-44cd-901c-63d24f8c8bff" name="Changes" comment="Mesa de Trabalho 07 jUNHO">
+      <change afterPath="$PROJECT_DIR$/src/Animais/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Animais/Cachorro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Animais/Cavalo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Animais/Preguica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Animais/main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BocaDeFumo/Funcionarios.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BocaDeFumo/Funcionarios.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -155,7 +155,7 @@
       <workItem from="1654462181527" duration="5261000" />
       <workItem from="1654534931011" duration="189000" />
       <workItem from="1654535739320" duration="967000" />
-      <workItem from="1654642869603" duration="1525000" />
+      <workItem from="1654642869603" duration="2598000" />
     </task>
     <task id="LOCAL-00001" summary="novo">
       <created>1653436116614</created>
@@ -199,7 +199,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654467540706</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Mesa de Trabalho 07 jUNHO">
+      <created>1654644531869</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1654644531869</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -223,7 +230,8 @@
     <MESSAGE value="ex aula 25" />
     <MESSAGE value="Aprendendo date time" />
     <MESSAGE value="checkPoint POO" />
-    <option name="LAST_COMMIT_MESSAGE" value="checkPoint POO" />
+    <MESSAGE value="Mesa de Trabalho 07 jUNHO" />
+    <option name="LAST_COMMIT_MESSAGE" value="Mesa de Trabalho 07 jUNHO" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
