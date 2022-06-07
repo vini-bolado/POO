@@ -1,11 +1,11 @@
 package BocaDeFumo;
 
-public class Funcionarios {
+    public class Funcionarios {
 
-    private String vulgo;
-    private int idade;
-    private String tel;
-    private Double salario;
+        private String vulgo;
+        private int idade;
+        private String tel;
+        private Double salario;
 
 
     public Funcionarios(String vulgo, int idade, String tel, Double salario) {
