@@ -4,13 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="96391971-cb86-44cd-901c-63d24f8c8bff" name="Changes" comment="Mesa de Trabalho 07 jUNHO">
-      <change afterPath="$PROJECT_DIR$/src/Animais/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Animais/Cachorro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Animais/Cavalo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Animais/Preguica.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Animais/main.java" afterDir="false" />
+    <list default="true" id="96391971-cb86-44cd-901c-63d24f8c8bff" name="Changes" comment="Mesa de Trabalho 02 07 jUNHO">
+      <change afterPath="$PROJECT_DIR$/src/BocaDeFumo/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Funcionario/AssAdm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Funcionario/AssTecnico.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Funcionario/Assistente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Funcionario/Funcionario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Funcionario/Teste.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BocaDeFumo/BocaDeFumo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BocaDeFumo/BocaDeFumo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,25 +41,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Vini/IdeaProjects/POO/src&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Vini/IdeaProjects/POO/src/Funcionario",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Vini\IdeaProjects\POO\src\Funcionario" />
       <recent name="C:\Users\Vini\IdeaProjects\POO\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.main">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Aula1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AulasSoulCode.Aula1" />
       <module name="POO" />
@@ -70,12 +74,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ObjetoCACHORRO" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CACHORRO.ObjetoCACHORRO" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BocaDeFumo.Main" />
       <module name="POO" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CACHORRO.*" />
+          <option name="PATTERN" value="BocaDeFumo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,12 +87,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ObjetoImpressora" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="IMPRESSORA.ObjetoImpressora" />
+    <configuration name="ObjetoCACHORRO" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CACHORRO.ObjetoCACHORRO" />
       <module name="POO" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="IMPRESSORA.*" />
+          <option name="PATTERN" value="CACHORRO.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,11 +128,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.main" />
         <item itemvalue="Application.Principal" />
         <item itemvalue="Application.Aula1" />
         <item itemvalue="Application.ObjetoCACHORRO" />
-        <item itemvalue="Application.ObjetoImpressora" />
       </list>
     </recent_temporary>
   </component>
@@ -155,7 +159,9 @@
       <workItem from="1654462181527" duration="5261000" />
       <workItem from="1654534931011" duration="189000" />
       <workItem from="1654535739320" duration="967000" />
-      <workItem from="1654642869603" duration="2598000" />
+      <workItem from="1654642869603" duration="3283000" />
+      <workItem from="1654730332604" duration="2854000" />
+      <workItem from="1654985387484" duration="1903000" />
     </task>
     <task id="LOCAL-00001" summary="novo">
       <created>1653436116614</created>
@@ -206,7 +212,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654644531869</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Mesa de Trabalho 02 07 jUNHO">
+      <created>1654645708717</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1654645708717</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -231,7 +244,8 @@
     <MESSAGE value="Aprendendo date time" />
     <MESSAGE value="checkPoint POO" />
     <MESSAGE value="Mesa de Trabalho 07 jUNHO" />
-    <option name="LAST_COMMIT_MESSAGE" value="Mesa de Trabalho 07 jUNHO" />
+    <MESSAGE value="Mesa de Trabalho 02 07 jUNHO" />
+    <option name="LAST_COMMIT_MESSAGE" value="Mesa de Trabalho 02 07 jUNHO" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

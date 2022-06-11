@@ -8,14 +8,14 @@ public class BocaDeFumo {
 
     private String produtos;
 
-    private Date HoraFunc;
+    private String HoraFunc;
 
     private String tel;
 
-    public BocaDeFumo(String local, String produtos, Date horaFunc, String tel) {
+    public BocaDeFumo(String local, String produtos, String horaFunc, String tel) {
         this.local = local;
         this.produtos = produtos;
-        HoraFunc = horaFunc;
+        this.HoraFunc = horaFunc;
         this.tel = tel;
     }
 
@@ -38,13 +38,7 @@ public class BocaDeFumo {
         this.produtos = produtos;
     }
 
-    public Date getHoraFunc() {
-        return HoraFunc;
-    }
 
-    public void setHoraFunc(Date horaFunc) {
-        HoraFunc = horaFunc;
-    }
 
     public String getTel() {
         return tel;
