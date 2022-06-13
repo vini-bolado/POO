@@ -4,16 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="96391971-cb86-44cd-901c-63d24f8c8bff" name="Changes" comment="Mesa de Trabalho 02 07 jUNHO">
-      <change afterPath="$PROJECT_DIR$/src/BocaDeFumo/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Funcionario/AssAdm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Funcionario/AssTecnico.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Funcionario/Assistente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Funcionario/Funcionario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Funcionario/Teste.java" afterDir="false" />
+    <list default="true" id="96391971-cb86-44cd-901c-63d24f8c8bff" name="Changes" comment="CheckPoint 1 POO.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BocaDeFumo/BocaDeFumo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BocaDeFumo/BocaDeFumo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,19 +33,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Vini/IdeaProjects/POO/src/Funcionario",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Vini/IdeaProjects/POO/src/Funcionario&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Vini\IdeaProjects\POO\src\Funcionario" />

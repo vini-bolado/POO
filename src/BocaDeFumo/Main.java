@@ -3,7 +3,7 @@ package BocaDeFumo;
 public class Main {
     public static void main(String[] args) {
 
-        Funcionarios baiano = new adms("Clebinho",17,"94428922",2000.00,50000.00);
+        Funcionarios baiano = new Adms("Clebinho",17,"94428922",2000.00,50000.00);
         Funcionarios Diego = new Vendedores("Diego",21,"91823981",1500.00,200.00);
         BocaDeFumo Boqueirao = new BocaDeFumo("Morro do Alemão","Drogas em geral","Sempre aberto","157190");
         Fornecedores Primos = new Fornecedores("PrimosLTDA","988997879","Drogas ilicitas",200.00);

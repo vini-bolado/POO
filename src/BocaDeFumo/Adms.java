@@ -1,10 +1,10 @@
 package BocaDeFumo;
 
-public class adms extends Funcionarios{
+public class Adms extends Funcionarios {
 
     private Double dinheiroTotal;
 
-    public adms(String vulgo, int idade, String tel, Double salario, Double dinheiroTotal) {
+    public Adms(String vulgo, int idade, String tel, Double salario, Double dinheiroTotal) {
         super(vulgo, idade, tel, salario);
         this.dinheiroTotal = dinheiroTotal;
     }
